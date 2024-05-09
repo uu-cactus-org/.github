@@ -1,4 +1,4 @@
-## Hi there 👋
+# 情報研究会CACTUS
 
 <!--
 
@@ -11,6 +11,6 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# CACTUSについて🌵
+## 🌵CACTUSについて🌵
 情報研究会CACTUSは、宇都宮大学公認団体のプログラミングサークルです。
 Unity C#を用いたゲーム開発を始めとした、ゆるい雰囲気でのプログラミング・創作を行なっています。
